@@ -1016,4 +1016,7 @@ showcases:
     - title: Catppuccin Noctis
       description: An alternative to the official VSCode theme, with [Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis) syntax highlighting
       link: https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis
+      - title: Novagon Web
+      description: A simple, open-source social networking site
+      link: https://novagon-web.netlify.app/
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/catppuccin/main/resources/ports.schema.json
